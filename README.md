@@ -1,1 +1,1 @@
-# IS601
+Chat application using Django Framework
